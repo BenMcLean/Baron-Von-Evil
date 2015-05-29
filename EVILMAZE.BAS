@@ -441,7 +441,7 @@ END SUB
 
 SUB Entertain
 ' The Entertainer
-PLAY "T175 MFo3L16dd+el8>c<l16e>l8c<l16e>l4cl16dd+ecdecl8dl8cg>cp8 T500 MB"
+PLAY "T175 MFo3L16dd+el8>c<l16e>l8c<l16e>l4cl16dd+ecdecl8dl8cg>cp8 T255 MB"
 
 END SUB
 
@@ -530,7 +530,7 @@ COLOR DefaultC, 0
 END SUB
 
 SUB GemFX
-PLAY "T500 MB L25 O5 G O6 C"
+PLAY "T255 MB L25 O5 G O6 C"
 END SUB
 
 SUB Gun (D%)
@@ -953,7 +953,7 @@ END SELECT
 END SUB
 
 SUB SadSound
-PLAY "MBMNT500o2P2P8L8GGGL2E- P4 4P8L8FFFL2D"
+PLAY "MBMNT255o2P2P8L8GGGL2E- P4 4P8L8FFFL2D"
 END SUB
 
 SUB SeeTeleport (D%)
@@ -1103,11 +1103,11 @@ DO: LOOP UNTIL INKEY$ = ""
 END SUB
 
 SUB SneakSound1
-PLAY "T150 o0l3dl14ef.p13l13d. T500"
+PLAY "T150 o0l3dl14ef.p13l13d. T255"
 END SUB
 
 SUB SneakSound2
-PLAY "T150 o0l15ffgfg+fg+a T500"
+PLAY "T150 o0l15ffgfg+fg+a T255"
 END SUB
 
 SUB StoneMonster (D%)
