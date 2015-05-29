@@ -1,4 +1,4 @@
-# Baron Von Evil's Mansion`
+# Baron Von Evil's Mansion
 Baron Von Evil's Mansion is a psuedo-3D maze game written in QBasic using text for graphics. Inspired by this Javascript game: https://web.archive.org/web/20080908083419/http://www.star-dot.com/hishers/hisgames/javagame/maze.htm
 
 # Running the program
