@@ -15,7 +15,7 @@ Navigate with the arrow keys and press ESC to quit. That's all!
 
 # About
 
-I wrote this back in middle school, sometime in the early 2000s.
+I wrote this back in high school, sometime in the early 2000s.
 
 Modifications, adding new levels, etc is encouraged! Just please tell me cause I want to see what you've done!
 
