@@ -5,7 +5,7 @@ Baron Von Evil's Mansion is a psuedo-3D maze game written in QBasic using text f
 
 Modern Windows systems can run the QB64 version, "EVILMAZE - QB64.exe"
 
-MS-DOS systems can run the QB 4.5 version, "EVILMAZE.EXE"
+MS-DOS systems (including DOSBOX) can run the QB 4.5 version, "EVILMAZE.EXE"
 
 The source code "EVILMAZE.BAS" will compile in QB 4.5 and QB64. I developed it in QBasic 1.1 but haven't tested the latest version in QBasic 1.1.
 
