@@ -1,9 +1,13 @@
 # Baron Von Evil's Mansion
-Baron Von Evil's Mansion is a psuedo-3D maze game written in QBasic using text for graphics. Inspired by this Javascript game: https://web.archive.org/web/20080908083419/http://www.star-dot.com/hishers/hisgames/javagame/maze.htm
+Baron Von Evil's Mansion is a psuedo-3D maze game written in QBasic using text for graphics.
+
+Inspired by this Javascript game: https://web.archive.org/web/20080908083419/http://www.star-dot.com/hishers/hisgames/javagame/maze.htm
+
+Get the source code here: https://github.com/BenMcLean/Baron-Von-Evil
 
 # Running the program
 
-You can run it in modern web browsers via EM-DOSBOX here: https://dl.dropboxusercontent.com/u/81214875/EVILMAZE/evilmaze.html
+You can run it in modern web browsers via EM-DOSBOX here: http://benmclean.github.io/Baron-Von-Evil/evilmaze.html
 
 Modern Windows systems can run the QB64 version, "EVILMAZE - QB64.exe"
 
@@ -13,7 +17,7 @@ The source code "EVILMAZE.BAS" will compile in QB 4.5 and QB64. I developed it i
 
 # How to play
 
-Navigate with the arrow keys and press ESC to quit. That's all!
+Navigate with the arrow keys and press ESC to quit. The one place where a question is asked can be answered with Y-enter or N-enter. That's all!
 
 # About
 
